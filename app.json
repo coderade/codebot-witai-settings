@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip codebot.zip codebot/app.json codebot/entities/*.json codebot/actions.json codebot/stories.json codebot/expressions.json",
+  "data" : {
+    "name" : "codebot",
+    "description" : "Slack Bot implementation",
+    "lang" : "en"
+  }
+}
